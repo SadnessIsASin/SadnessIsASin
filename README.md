@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="480" height="480"/>
 </div>
 
 ---
